@@ -131,6 +131,8 @@ EMAIL_HOST_PASSWORD = 'euqhdtynocueyabt'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
+# My settings
+LOGIN_URL = 'users:login'
 #heroku settings
 import django_heroku
 django_heroku.settings(locals())
