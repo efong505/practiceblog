@@ -130,3 +130,7 @@ EMAIL_HOST_USER = 'hawaiianintucson@gmail.com'
 EMAIL_HOST_PASSWORD = 'euqhdtynocueyabt'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
+
+#heroku settings
+import django_heroku
+django_heroku.settings(locals())
