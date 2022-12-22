@@ -132,7 +132,13 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 # My settings
-LOGIN_URL = 'users:login'
+# LOGIN_URL = 'users:login'
 #heroku settings
 import django_heroku
+import os
 django_heroku.settings(locals())
+
+if os.environ.get('DEBUG')=='TRUE':
+    DEBUG=True
+elif os.environ.get('DEBUG')=='FALSE':
+    DEBUG=False
