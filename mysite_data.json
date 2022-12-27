@@ -1,0 +1,995 @@
+[
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Who was Django Reinhardt?",
+    "slug": "who-was-django-reinhardt",
+    "author": 1,
+    "body": "Jean Reinhardt (23 January 1910 – 16 May 1953), known by his Romani nickname Django (French: [dʒãŋɡo ʁɛjnaʁt] or [dʒɑ̃ɡo ʁenɑʁt]), was a Romani-French jazz guitarist and composer. He was one of the first major jazz talents to emerge in Europe and has been hailed as one of its most significant exponents.[2][3]\r\n\r\nWith violinist Stéphane Grappelli,[1] Reinhardt formed the Paris-based Quintette du Hot Club de France in 1934. The group was among the first to play jazz that featured the guitar as a lead instrument.[4] Reinhardt recorded in France with many visiting American musicians, including Coleman Hawkins and Benny Carter, and briefly toured the United States with Duke Ellington's orchestra in 1946. He died suddenly of a stroke in 1953 at the age of 43.\r\n\r\nReinhardt's most popular compositions have become standards within gypsy jazz, including \"Minor Swing\",[5] \"Daphne\", \"Belleville\", \"Djangology\", \"Swing '42\", and \"Nuages\". Jazz guitarist Frank Vignola says that nearly every major popular-music guitarist in the world has been influenced by Reinhardt.[6] Over the last few decades, annual Django festivals have been held throughout Europe and the U.S., and a biography has been written about his life.[2] In February 2017, the Berlin International Film Festival held the world premiere of the French film Django.",
+    "publish": "2022-12-20T20:25:28Z",
+    "created": "2022-12-20T20:25:50.724Z",
+    "updated": "2022-12-20T20:28:37.722Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Another Post",
+    "slug": "another-post",
+    "author": 1,
+    "body": "antoher post",
+    "publish": "2022-12-20T20:26:07Z",
+    "created": "2022-12-20T20:26:45.910Z",
+    "updated": "2022-12-20T20:26:45.910Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Who was Miles Davis?",
+    "slug": "who-was-miles-davis",
+    "author": 1,
+    "body": "Miles Dewey Davis III (May 26, 1926 – September 28, 1991) was an American trumpeter, bandleader, and composer. He is among the most influential and acclaimed figures in the history of jazz and 20th-century music. Davis adopted a variety of musical directions in a five-decade career that kept him at the forefront of many major stylistic developments in jazz.[1]\r\n\r\nBorn in Alton, Illinois, and raised in East St. Louis, Davis left to study at Juilliard in New York City, before dropping out and making his professional debut as a member of saxophonist Charlie Parker's bebop quintet from 1944 to 1948. Shortly after, he recorded the Birth of the Cool sessions for Capitol Records, which were instrumental to the development of cool jazz. In the early 1950s, Davis recorded some of the earliest hard bop music while on Prestige Records but did so haphazardly due to a heroin addiction. After a widely acclaimed comeback performance at the Newport Jazz Festival, he signed a long-term contract with Columbia Records and recorded the album 'Round About Midnight in 1955.[2] It was his first work with saxophonist John Coltrane and bassist Paul Chambers, key members of the sextet he led into the early 1960s. During this period, he alternated between orchestral jazz collaborations with arranger Gil Evans, such as the Spanish music-influenced Sketches of Spain (1960), and band recordings, such as Milestones (1958) and Kind of Blue (1959).[3] The latter recording remains one of the most popular jazz albums of all time,[4] having sold over five million copies in the U.S.\r\n\r\nDavis made several line-up changes while recording Someday My Prince Will Come (1961), his 1961 Blackhawk concerts, and Seven Steps to Heaven (1963), another mainstream success that introduced bassist Ron Carter, pianist Herbie Hancock, and drummer Tony Williams.[3] After adding saxophonist Wayne Shorter to his new quintet in 1964,[3] Davis led them on a series of more abstract recordings often composed by the band members, helping pioneer the post-bop genre with albums such as E.S.P (1965) and Miles Smiles (1967),[5] before transitioning into his electric period. During the 1970s, he experimented with rock, funk, African rhythms, emerging electronic music technology, and an ever-changing line-up of musicians, including keyboardist Joe Zawinul, drummer Al Foster, and guitarist John McLaughlin.[6] This period, beginning with Davis's 1969 studio album In a Silent Way and concluding with the 1975 concert recording Agharta, was the most controversial in his career, alienating and challenging many in jazz.[7] His million-selling 1970 record Bitches Brew helped spark a resurgence in the genre's commercial popularity with jazz fusion as the decade progressed.[8]\r\n\r\nAfter a five-year retirement due to poor health, Davis resumed his career in the 1980s, employing younger musicians and pop sounds on albums such as The Man with the Horn (1981) and Tutu (1986). Critics were often unreceptive but the decade garnered Davis his highest level of commercial recognition. He performed sold-out concerts worldwide, while branching out into visual arts, film, and television work, before his death in 1991 from the combined effects of a stroke, pneumonia and respiratory failure.[9] In 2006, Davis was inducted into the Rock and Roll Hall of Fame,[10] which recognized him as \"one of the key figures in the history of jazz\".[10] Rolling Stone described him as \"the most revered jazz trumpeter of all time, not to mention one of the most important musicians of the 20th century,\"[9] while Gerald Early called him inarguably one of the most influential and innovative musicians of that period.[11]",
+    "publish": "2022-12-21T01:27:58Z",
+    "created": "2022-12-21T01:28:09.814Z",
+    "updated": "2022-12-21T01:28:09.814Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Chick Corea",
+    "slug": "chick-corea",
+    "author": 1,
+    "body": "Armando Anthony \"Chick\" Corea (June 12, 1941 – February 9, 2021) was an American jazz composer, pianist, keyboardist, bandleader, and occasional percussionist.[2][3] His compositions \"Spain\", \"500 Miles High\", \"La Fiesta\", \"Armando's Rhumba\", and \"Windows\" are widely considered jazz standards.[4] As a member of Miles Davis's band in the late 1960s, he participated in the birth of jazz fusion. In the 1970s he formed Return to Forever.[3] Along with McCoy Tyner, Herbie Hancock, and Keith Jarrett, Corea is considered one of the foremost jazz pianists of the post-John Coltrane era.[5]\r\n\r\nCorea continued to collaborate frequently while exploring different musical styles throughout the 1980s and 1990s. He won 27 Grammy Awards and was nominated more than 60 times.[6]",
+    "publish": "2022-12-21T01:28:32Z",
+    "created": "2022-12-21T01:28:56.505Z",
+    "updated": "2022-12-21T01:28:56.505Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\n**Here is a list:**\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/) {:target=\"_blank\"}.",
+    "publish": "2022-12-23T00:41:32Z",
+    "created": "2022-12-23T00:42:11.999Z",
+    "updated": "2022-12-23T00:53:56.406Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 3,
+    "name": "Ed",
+    "email": "waianaeboy702@aol.com",
+    "body": "This is cool!",
+    "created": "2022-12-22T03:31:32.627Z",
+    "updated": "2022-12-22T03:31:32.627Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 3,
+    "name": "Julia",
+    "email": "juliabfong@gmail.com",
+    "body": "Cool!",
+    "created": "2022-12-22T03:32:06.087Z",
+    "updated": "2022-12-22T03:32:06.087Z",
+    "active": true
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2022-12-20T17:02:30.877Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2022-12-20T19:33:12.372Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "2",
+    "object_repr": "Two",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2022-12-20T20:25:00.655Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "1",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2022-12-20T20:25:18.949Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "2",
+    "object_repr": "Two",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2022-12-20T20:25:50.725Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "3",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2022-12-20T20:26:07.965Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "3",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2022-12-20T20:26:45.914Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "4",
+    "object_repr": "Another Post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2022-12-20T20:28:13.030Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "3",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2022-12-20T20:28:24.733Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "3",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2022-12-20T20:28:37.728Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "3",
+    "object_repr": "Who was Django Reinhardt?",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2022-12-21T01:28:09.815Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "5",
+    "object_repr": "Who was Miles Davis?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2022-12-21T01:28:56.507Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "6",
+    "object_repr": "Chick Corea",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2022-12-23T00:42:12.004Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2022-12-23T00:49:15.837Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2022-12-23T00:49:46.404Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2022-12-23T00:50:43.149Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2022-12-23T00:51:07.591Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2022-12-23T00:51:22.608Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2022-12-23T00:51:35.040Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2022-12-23T00:52:47.941Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2022-12-23T00:52:56.720Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2022-12-23T00:53:05.705Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2022-12-23T00:53:56.409Z",
+    "user": 1,
+    "content_type": 1,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2022-12-23T01:05:54.903Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 1,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 1,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 1,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 1,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 2,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 2,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 2,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 2,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 3,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 3,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 3,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 3,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 4,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 4,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 4,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 4,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 5,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 5,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 5,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 5,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 6,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 6,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 6,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 6,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 7,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 7,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 7,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 7,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$Hbcx3BdnFgoFlrIqNtQ0wA$LmSg2ohZFhDrJgVBgtLBBSjS7y6NhVS3IDB1xM7tagk=",
+    "last_login": "2022-12-23T00:41:32.318Z",
+    "is_superuser": true,
+    "username": "ed",
+    "first_name": "",
+    "last_name": "",
+    "email": "waianaeboy702@aol.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-12-20T16:55:42.957Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "0u3zdi7gar1och7zqpueyyb2ga627ogi",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSHC8HTpvt9ABhikaiAp7cr479qkC93ec859sYDbWsM2aAlzZhcm2Ol3i5ge1HaQ79hunafe1mWOfFf4QQefeqbn9XD_DiqO-q1lKQQJBboiSEMuAOSzlLaAidrHpEnn5IVSYJz2oAARjdXGeRnhbNn7A_wNN7E:1p7fzd:SYWUsSebHT2KvnidXsKwVbUM1aCQQTM2lmF7JeWXvQc",
+    "expire_date": "2023-01-03T17:01:29.994Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "ifa5pcqyhiwpl53ohcaipfp4up3coqk0",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSHC8HTpvt9ABhikaiAp7cr479qkC93ec859sYDbWsM2aAlzZhcm2Ol3i5ge1HaQ79hunafe1mWOfFf4QQefeqbn9XD_DiqO-q1lKQQJBboiSEMuAOSzlLaAidrHpEnn5IVSYJz2oAARjdXGeRnhbNn7A_wNN7E:1p8W7w:32wZHjnLhAsqXTHgHEl58ty4SuMM81l8_VhdiFetHy0",
+    "expire_date": "2023-01-06T00:41:32.322Z"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 1,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 1,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 1,
+    "object_id": 7
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]

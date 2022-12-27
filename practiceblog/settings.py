@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'taggit',
     'django.contrib.sites',
     'django.contrib.sitemaps',
+    'django.contrib.postgres',
 ]
 
 MIDDLEWARE = [
@@ -83,6 +84,14 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'ekewaka',
+#          'USER':'ekewaka',
+#          'PASSWORD': 'Hawaii5o!',
+#     }
+# }
 
 
 # Password validation
